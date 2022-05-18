@@ -1,7 +1,6 @@
 - 👨🏽‍💻 I’m currently working as intern full stack developer  [Joeyco.inc](https://github.com/Adarshreddyash/ronix-frontend);
 - 🌱 I’m currently learning sql, AWS ,GraphQL ,typescript and Kubernetes; 
 - 👯 I’m looking to collaborate on 🤝;https://github.com/codewithromit2905
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
 - 📫 How to reach me: soliyaromit111@@gmail.com;
